@@ -1,0 +1,13 @@
+C:\Users\emil.andersson20\source\repos\Polymorfism_Start\Polymorfism_Start\bin\Debug\netcoreapp3.1\Polymorfism_Start.exe
+C:\Users\emil.andersson20\source\repos\Polymorfism_Start\Polymorfism_Start\bin\Debug\netcoreapp3.1\Polymorfism_Start.deps.json
+C:\Users\emil.andersson20\source\repos\Polymorfism_Start\Polymorfism_Start\bin\Debug\netcoreapp3.1\Polymorfism_Start.runtimeconfig.json
+C:\Users\emil.andersson20\source\repos\Polymorfism_Start\Polymorfism_Start\bin\Debug\netcoreapp3.1\Polymorfism_Start.runtimeconfig.dev.json
+C:\Users\emil.andersson20\source\repos\Polymorfism_Start\Polymorfism_Start\bin\Debug\netcoreapp3.1\Polymorfism_Start.dll
+C:\Users\emil.andersson20\source\repos\Polymorfism_Start\Polymorfism_Start\bin\Debug\netcoreapp3.1\Polymorfism_Start.pdb
+C:\Users\emil.andersson20\source\repos\Polymorfism_Start\Polymorfism_Start\obj\Debug\netcoreapp3.1\Polymorfism_Start.csprojAssemblyReference.cache
+C:\Users\emil.andersson20\source\repos\Polymorfism_Start\Polymorfism_Start\obj\Debug\netcoreapp3.1\Polymorfism_Start.AssemblyInfoInputs.cache
+C:\Users\emil.andersson20\source\repos\Polymorfism_Start\Polymorfism_Start\obj\Debug\netcoreapp3.1\Polymorfism_Start.AssemblyInfo.cs
+C:\Users\emil.andersson20\source\repos\Polymorfism_Start\Polymorfism_Start\obj\Debug\netcoreapp3.1\Polymorfism_Start.csproj.CoreCompileInputs.cache
+C:\Users\emil.andersson20\source\repos\Polymorfism_Start\Polymorfism_Start\obj\Debug\netcoreapp3.1\Polymorfism_Start.dll
+C:\Users\emil.andersson20\source\repos\Polymorfism_Start\Polymorfism_Start\obj\Debug\netcoreapp3.1\Polymorfism_Start.pdb
+C:\Users\emil.andersson20\source\repos\Polymorfism_Start\Polymorfism_Start\obj\Debug\netcoreapp3.1\Polymorfism_Start.genruntimeconfig.cache
